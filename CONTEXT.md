@@ -10,5 +10,5 @@
 - `7fb49d6` — chore: add Homelab project contract
 - `02896a7` — Initial commit
 
-Source commit: `216d84f`. The published CONTEXT.md contains no content outside Janitor-managed blocks, so the summaries above are drawn solely from commit subjects; their scope and completeness are not independently verified.
+Source commit: `216d84f`. The published CONTEXT.md contains no content outside Janitor-managed blocks, so the summaries above are drawn solely from commit subjects.
 <!-- janitor:end:recent -->
